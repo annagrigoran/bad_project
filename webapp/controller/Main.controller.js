@@ -9,7 +9,7 @@ sap.ui.define([
 
         return Controller.extend("testproject.controller.Main", {
             onInit: function () {
-
+                    //Test 3
             }
         });
     });
